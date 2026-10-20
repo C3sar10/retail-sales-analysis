@@ -4,6 +4,10 @@ An end-to-end retail sales analysis project using **Python, pandas, SQL, and Tab
 
 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/cesar.perez5476/viz/OnlineRetailSalesAnalysisRevenueProductsMarkets/OnlineRetailSalesDashboard)
 
+## Dashboard Preview
+
+![Retail Sales Tableau Dashboard](dashboard/retail_dashboard.png)
+
 ## Project Overview
 
 This project analyzes the UCI Online Retail dataset, containing 541,909 transaction records from a UK-based online retailer between December 2010 and December 2011.
